@@ -45,4 +45,4 @@
 
 直接在浏览器中打开 `index.html` 即可使用（需联网加载 html2canvas 和图库图片）。
 
-links:https://ffee.me/cover-design/
+links:https://ffee.me/tools/cover-design/
